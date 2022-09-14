@@ -2,7 +2,7 @@ Naive Bayes Classifier
 
 
 
-#### Dataset - Reviews on women clothing for an E-Commerce website
+#### Dataset - Reviews on women clothing of an E-Commerce website
 
 
 #### Naive Bayes Classifier:
